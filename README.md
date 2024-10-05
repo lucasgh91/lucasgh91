@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-![lucasgh91's Stats](https://github-readme-stats.vercel.app/api?username=lucasgh91&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![lucasgh91's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucasgh91&theme=tokyonight&hide_border=true)
+![lucasgh91's Stats](https://github-readme-stats.vercel.app/api?username=lucasgh91&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) \**
+![lucasgh91's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucasgh91&theme=tokyonight&hide_border=true) \**
 ![lucasgh91's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgh91&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 
